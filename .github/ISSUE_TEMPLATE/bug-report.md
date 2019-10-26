@@ -1,5 +1,5 @@
 ---
-name: 'Bug Report: Issues with Chapter software'
+name: 'Bug13 Report: Issues with Chapter software'
 about: Report an issue or flaw in chapter software's schema, architecture, APIs, UI or anything related to our software.
 title: ''
 labels: 'type: bug'
